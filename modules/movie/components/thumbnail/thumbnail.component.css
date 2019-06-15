@@ -1,0 +1,27 @@
+.movie-thumbnail{
+    width:150px;
+    margin:30px;
+}
+
+.movie-overview{
+height: 50px;
+overflow-x: hidden;
+overflow-y: auto;
+}
+
+.mat-card-title{
+    height:70px;
+}
+
+.mat-card-image{
+    height:150px;
+}
+
+.movie-overview::-webkit-scrollbar{
+    width: 2px;
+    background: gray;
+}
+
+.movie-actions{
+    text-align: right;
+}
